@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.d01dd3a0.chunk.js",
-    "main.js.map": "/static/js/main.d01dd3a0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9a404349.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9a404349.js.map",
-    "static/js/2.9c04e967.chunk.js": "/static/js/2.9c04e967.chunk.js",
-    "static/js/2.9c04e967.chunk.js.map": "/static/js/2.9c04e967.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a9b4e08aa236245796529ac03378837e.js": "/precache-manifest.a9b4e08aa236245796529ac03378837e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.9c04e967.chunk.js.LICENSE.txt": "/static/js/2.9c04e967.chunk.js.LICENSE.txt",
-    "static/media/blog-post.1.md": "/static/media/blog-post.1.f3a53693.md",
-    "static/media/blog-post.2.md": "/static/media/blog-post.2.99cbba3b.md",
-    "static/media/blog-post.3.md": "/static/media/blog-post.3.8d6e276b.md",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/career-consultancy/static/css/main.5f361e03.chunk.css",
+    "main.js": "/career-consultancy/static/js/main.616bc117.chunk.js",
+    "main.js.map": "/career-consultancy/static/js/main.616bc117.chunk.js.map",
+    "runtime-main.js": "/career-consultancy/static/js/runtime-main.f717c4d5.js",
+    "runtime-main.js.map": "/career-consultancy/static/js/runtime-main.f717c4d5.js.map",
+    "static/js/2.9c04e967.chunk.js": "/career-consultancy/static/js/2.9c04e967.chunk.js",
+    "static/js/2.9c04e967.chunk.js.map": "/career-consultancy/static/js/2.9c04e967.chunk.js.map",
+    "index.html": "/career-consultancy/index.html",
+    "precache-manifest.6e784db4c82ff478cb392085c5c5ec17.js": "/career-consultancy/precache-manifest.6e784db4c82ff478cb392085c5c5ec17.js",
+    "service-worker.js": "/career-consultancy/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/career-consultancy/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9c04e967.chunk.js.LICENSE.txt": "/career-consultancy/static/js/2.9c04e967.chunk.js.LICENSE.txt",
+    "static/media/blog-post.1.md": "/career-consultancy/static/media/blog-post.1.f3a53693.md",
+    "static/media/blog-post.2.md": "/career-consultancy/static/media/blog-post.2.99cbba3b.md",
+    "static/media/blog-post.3.md": "/career-consultancy/static/media/blog-post.3.8d6e276b.md",
+    "static/media/logo.svg": "/career-consultancy/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9a404349.js",
+    "static/js/runtime-main.f717c4d5.js",
     "static/js/2.9c04e967.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d01dd3a0.chunk.js"
+    "static/js/main.616bc117.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e3c5c8e087334cd3d55a4aeb47e00ce1",
+    "revision": "6f5880f331ef89a994336b67f7c75358",
     "url": "/career-consultancy/index.html"
   },
   {
-    "revision": "3ebc1d5034c31e34e6ed",
+    "revision": "94dab40806623d57850d",
     "url": "/career-consultancy/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/career-consultancy/static/js/2.9c04e967.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3ebc1d5034c31e34e6ed",
-    "url": "/career-consultancy/static/js/main.616bc117.chunk.js"
+    "revision": "94dab40806623d57850d",
+    "url": "/career-consultancy/static/js/main.a7f393f9.chunk.js"
   },
   {
     "revision": "188a0aa2eea2b851cea9",

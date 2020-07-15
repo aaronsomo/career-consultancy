@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/career-consultancy/static/css/main.5f361e03.chunk.css",
-    "main.js": "/career-consultancy/static/js/main.616bc117.chunk.js",
-    "main.js.map": "/career-consultancy/static/js/main.616bc117.chunk.js.map",
+    "main.js": "/career-consultancy/static/js/main.a7f393f9.chunk.js",
+    "main.js.map": "/career-consultancy/static/js/main.a7f393f9.chunk.js.map",
     "runtime-main.js": "/career-consultancy/static/js/runtime-main.f717c4d5.js",
     "runtime-main.js.map": "/career-consultancy/static/js/runtime-main.f717c4d5.js.map",
     "static/js/2.9c04e967.chunk.js": "/career-consultancy/static/js/2.9c04e967.chunk.js",
     "static/js/2.9c04e967.chunk.js.map": "/career-consultancy/static/js/2.9c04e967.chunk.js.map",
     "index.html": "/career-consultancy/index.html",
-    "precache-manifest.6e784db4c82ff478cb392085c5c5ec17.js": "/career-consultancy/precache-manifest.6e784db4c82ff478cb392085c5c5ec17.js",
+    "precache-manifest.4f79e417f65fd0d398fd7879e2cf64c2.js": "/career-consultancy/precache-manifest.4f79e417f65fd0d398fd7879e2cf64c2.js",
     "service-worker.js": "/career-consultancy/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/career-consultancy/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.9c04e967.chunk.js.LICENSE.txt": "/career-consultancy/static/js/2.9c04e967.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.f717c4d5.js",
     "static/js/2.9c04e967.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.616bc117.chunk.js"
+    "static/js/main.a7f393f9.chunk.js"
   ]
 }
